@@ -93,9 +93,9 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *Add your link*
-- 🌐 Portfolio: *Coming Soon*
-- ✉️ Email: *your-email@example.com*
+- 💼 LinkedIn: www.linkedin.com/in/viraj-dalvi-89030727b
+- 🌐 Portfolio:
+- ✉️ Email: dalviviraj70@gmail.com
 
 ---
 
